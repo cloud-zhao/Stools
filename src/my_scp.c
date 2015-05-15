@@ -23,7 +23,7 @@ int main(int argc,char *argv[])
 	LIBSSH2_SESSION *session;
 	LIBSSH2_CHANNEL *channel;
 	const char *user="root";
-	const char *passwd="cecfd1187398cf8d677aaa76552427b0";
+	const char *passwd="root";
 	const char *local_path;
 	const char *remote_path;
 	struct stat fileinfo;
